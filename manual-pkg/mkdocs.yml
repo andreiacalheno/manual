@@ -1,0 +1,10 @@
+site_name: Manual Uebteam
+site_url: https://manualuebteam.com
+
+nav:
+  - Introdução: index.md
+  - Empresa: manual.md
+  - Gestão de dias: empresa.md
+  - Projetos: projetos.md
+  - Relatorios: relatorios.md
+  
