@@ -4,7 +4,7 @@
 
  ** 1. Como é que posso ciar um utilizador? **
 
-- Quando abrir a app, irá visualizar um bloco com o nome “Empresa” - “Utilizadores”, será aí que vai poder criar os seus utilizadores. (colaboradores/administradores). De seguida é só colocar os dados que pretende.
+- Quando abrir a app, irá visualizar um bloco com o nome “Empresa” - “Utilizadores”, será aí que vai poder criar os seus utilizadores. Para criar os seus utilizadores terá de preencher uns dados sobre o utilizador, como: email, nome, NIF, NISS e contaco. Se estiver a criar um utilizador para um colaborador convém colocar também a função do colaborador. Estes são os dados mais importantes, o resto será à sua escolha.
 
 - (Veja como pode fazer na apresentação a seguir). 
 

@@ -5,7 +5,9 @@
 
 ** 1.1. Como posso marcar férias aos colaboradores 1 a 1? **
 
-- “Gestão de dias” - “Férias” - “Marcar férias por grupo”, colocar o grupo que pretende e adicionar os dias.  
+- “Gestão de dias” - “Férias” - “Marcar férias" , adicione o utilizador que pretende, coloca o ano corrente e escolha uma data inicial e uma data final.
+
+- Um administrador pode marcar férias a um colaborador sem necessidade de aprovação, uma vez que tem acesso à seleção de estados, ele coloca logo no estado "Aprovado".
 
 - (Veja como pode fazer na apresentação a seguir). 
 
@@ -13,10 +15,17 @@
 ![Gif](/imagem/12.gif)
 
 
+
+
+
 ** 1.2. Como posso marcar férias aos colaboradores por grupo? **
 
-- “Gestão de dias” - “Férias” - “Marcar férias por grupo”, colocar o grupo que pretende e adicionar os dias.  
+- “Gestão de dias” - “Férias” - “Marcar férias por grupo”, colocar o grupo que pretende, coloca o ano corrente e escolha uma data inicial e uma data final. 
+
 - (Veja como pode fazer na apresentação a seguir).
+
+- Apenas um administrador / gestor pode marcar férias por departamento ou grupo (para um grupo de pessoas).
+
 
 ![Gif](/imagem/13.gif)
 
@@ -24,10 +33,13 @@
 
 ** 1.3. Como posso marcar férias aos colaboradores por departamento? **
 
-- Gestão de dias” - “Férias” - “Marcar férias por departamento”, colocar o departamento pretendido e adicionar os dias.  
+- Gestão de dias” - “Férias” - “Marcar férias por departamento”, colocar o departamento pretendido, coloca o ano corrente e escolha uma data inicial e uma data final.  
 
 - (Veja como pode fazer na apresentação a seguir). 
 
+- Apenas um administrador / gestor pode marcar férias por departamento ou grupo (para um grupo de pessoas).
+
+-  (Veja como pode fazer na apresentação a seguir). 
 
 ![Gif](/imagem/22.gif)
 
@@ -36,7 +48,9 @@
     
 ** 1.4. Como colaborador como posso pedir férias? **
 
-- “Calendário” - “Marcar Férias”, depois é só escolher os dias que pretende e esperar pela aprovação por parte do administrador. 
+- “Calendário” - “Marcar Férias”, coloca o ano corrente e escolha uma data inicial e uma data final, depois é só esperar pela aprovação por parte do administrador. 
+
+- Como colaborador pode também marcar apenas para 1 dia (inteiro, uma manhã ou uma tarde), pode colocar uma observação, o pedido fica pendente a aprovação do gestor do seu departamento.
 
 - (Veja como pode fazer na apresentação a seguir). 
 
@@ -49,9 +63,11 @@
 
 ** 2. Como posso marcar as ausências individuais? **
 
--  “Gestão de dias” - “Ausências” - “Marcar ausências”, escolher o colaborador e marcar nos dias das ausências. 
+-  “Gestão de dias” - “Ausências” - “Marcar ausências”. Para marcar as ausências só precisa de completar 3 passos, escolher o utilizador que esteve ausente, colocar a data de início e de fim da ausência, por último terá de descrever o estado da ausência do colaborador (aprovado,rejeitado,pendente,cancelado,concluido).
 
--  (Veja como pode fazer na apresentação a seguir). 
+- Um administrador pode marcar as ausências de um colaborador sem necessidade de aprovação, uma vez que tem acesso à seleção de estados, ele coloca logo no estado “Aprovado”
+
+- (Veja como pode fazer na apresentação a seguir). 
 
 
 ![Gif](/imagem/24.gif)
@@ -59,7 +75,9 @@
  
  ** 2.1. Por grupo? **
 
-- “Gestão de dias” - “Ausências” - “Marcar ausências por grupo”, escolher o grupo e marcar nos dias da ausêncis. 
+- “Gestão de dias” - “Ausências” - “Marcar ausências por grupo”, escolher o grupo que esteve ausente, colocar a data de início e fim e descrever o estado da ausência do colaborador, como referido acima.
+
+- Pode colocar também para apenas 1 dia, uma manhã, uma tarde ou uma série de dias.
 
 - (Veja como pode fazer na apresentação a seguir).
 
@@ -71,7 +89,8 @@
 
 ** 2.2. Por departamento? **
 
-- “Gestão de dias”- “Ausências” - “Marcar ausências por departamento”, escolher o departamento e marcar nos dias das ausências. 
+- “Gestão de dias”- “Ausências” - “Marcar ausências por departamento”, escolher o departamento que esteve ausente colocar a data de início e fim e descrever o estado da ausência do colaborador.
+
 
 - (Veja como pode fazer na apresentação a seguir).
 
@@ -86,7 +105,11 @@
 
 - “Gestão de dias” - “Trabalho remoto” - “Marcar Trabalho remoto”. 
 
-- Depois terá de adicionar o colaborador e marcar os dias em que o mesmo vai estar em trabalho remoto. 
+- Escolha o colaborador que irá entrar em trabalho remoto, ou esteve em trabalho remoto, coloque a data de início e a data de fim e por fim descrever o estado do trabalho remoto do colaborador.
+
+- Um administrador pode marcar o trabalho remoto de um colaborador sem necessidade de aprovação, uma vez que tem acesso à seleção de estados, ele coloca logo no estado “Aprovado”
+
+- Pode colocar também para apenas 1 dia, uma manhã, uma tarde ou uma série de dias.
 
 - (Veja como pode fazer na apresentação a seguir). 
 
@@ -98,7 +121,9 @@
 
 ** 3.1. Por grupo?  **
 
-- “Gestão de dias” - “Trabalho remoto” - “Marcar Trabalho remoto por grupo”, escolher o grupo e marcar os dias pretendidos.
+- “Gestão de dias” - “Trabalho remoto” - “Marcar Trabalho remoto por grupo”.
+
+- Escolha o grupo que irá entrar em trabalho remoto, ou esteve em trabalho remoto, coloque a data de início e fim, por fim descreva o estado remoto do grupo.
 
 - (Veja como pode fazer na apresentação a seguir).
 
@@ -110,7 +135,9 @@
 
 ** 3.2. Por departamento? **
 
-- "Gestão de dias” - “Trabalho remoto” - “Marcar Trabalho remoto por departamento”, escolher o departamento e marcar nos dias pretendidos. 
+- "Gestão de dias” - “Trabalho remoto” - “Marcar Trabalho remoto por departamento”.
+
+- Escolha o departamento que irá entrar em trabalho remoto, ou esteve em trabalho remoto, coloque a data de início e fim, or fim descreva o estamo remoto do departamento.
 
 - (Veja como pode fazer na apresentação a seguir).
 
@@ -122,48 +149,9 @@
 
      
      
-## ** <span style="color:Grey"> Feriados</span> ** 
-
-** 4. Como posso adicionar os feriados? **
-
-- “Gestão de dias” - “Feriados” - “Adicionar”, de seguida é só necessário colocar o nome do feriado e o dia.  
-
-- (Veja como pode fazer na apresentação a seguir).
-
-
-
-
-![Gif](/imagem/21.gif)
-
 
  
-** 4.1. Poderá também adicionar todos os feriados para o ano seguinte sem ter de voltar a adicionar um a um.  **
 
-- (Veja como pode fazer na apresentação a seguir).
-
-
-
-![Gif](/imagem/23.gif)
- 
-
-## ** <span style="color:Grey">Marcar salas</span> ** 
-
-** 5.1. Depois de criar uma sala,pode agendar um evento nessa sala. (Irá aparecer no mapa de trabalho).**
-
-- (Veja como pode fazer na apresentação a seguir). 
-
-![Gif](/imagem/9.gif)
- 
-
-## ** <span style="color:Grey">Marcar viaturas</span> ** 
-
-** 6. Como é que eu reservo uma viatura? **
- 
-- Depois da viatura criada, vai lhe aparecer um bloco “Reservar”, aí vai conseguir reservá-la, colocando a viatura pretendida, no dia e nas horas que pretende reservar.  
-
-- (Veja como pode fazer na apresentação a seguir). 
-
- ![Gif](/imagem/11.gif)
  
 
  
