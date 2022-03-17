@@ -231,7 +231,7 @@
 
 ## ** <span style="color:Grey">Marcar viaturas</span> ** 
 
-** 10.1.. Como é que eu reservo uma viatura? **
+** 10.1. Como é que eu reservo uma viatura? **
  
 - Depois da viatura criada, vai lhe aparecer um bloco “Reservar”, aí vai conseguir reservá-la, colocando a viatura pretendida, no dia e nas horas que pretende reservar.  
 
